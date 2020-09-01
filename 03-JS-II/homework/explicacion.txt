@@ -1,0 +1,7 @@
+for: Este es un tipo de función en el cual se genera un bucle. 
+    consta de 3 parametros con la siguiente estructura: 
+        for (declaración de variable inicial, condición para que la función se ejecute, qué pasa cuando la función cumple un ciclo)
+
+&& : es un operador lógico, este significa que todos los parametros deben ser true). 
+|| : es un operador lógico, este significa que alguno de los parametros debe ser true. 
+! : es un operador de negación, invierte la veracidad del parametro. 
