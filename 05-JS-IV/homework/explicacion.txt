@@ -1,0 +1,8 @@
+Objeto: es un contenedor de datos, en el cual se pueden guardar diferentes propiedades.
+Propiedades: Son elementos que están guardados dentro de un objeto.
+Método: Cuando una función se guarda como propiedad en un objeto se le llama método.
+For...in: es un tipo específico de bucle para objetos, ésta en vez de ir pasando por una variable "i", se
+    le declara una variable (por ejemplo 'clave') que va tomando el valor de las diferentes propiedades del objeto.
+Notación de puntos vs notación de corchetes: la notacion de puntos toma la estructura objeto.propiedad este tipo de notacion
+    es literal mientras que la notacion de corchetes toma la estructura objeto['propiedad'] y este no es literal, por lo tanto puedo
+    darle el valor 'propiedad', por ejemplo, mediante una variable. 

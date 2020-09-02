@@ -91,7 +91,7 @@ function fizzBuzz(numero) {
     if( numero == 0 || numero == 1) {
       return false; 
     }
-    for (var i = 2; numero > 1 && i < numero; i++){
+    for (var i = 2; i < numero; i++){
       if( numero % i === 0) {
         return false;
       }
