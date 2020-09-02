@@ -1,0 +1,1 @@
+Un array es un cadena de componentes. Estos componentes pueden ser de cualquier tipo. 
