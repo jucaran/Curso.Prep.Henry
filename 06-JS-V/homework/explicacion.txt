@@ -1,0 +1,7 @@
+prototype: JavaScript funciona en base a prototipos, estos son objetos que poseen ciertas propiedades y métodos.
+    La diferencia entre un objeto y una clase es que el prototipo contiene métodos que no estan definidos en la clase.
+    Lo que hace JavaScript es en caso de no encontrar un método en el objeto en el cual lo llamamos buscarlo en el prototipo al cual este pertenece. 
+    Hasta así llegar al prototipo "padre" de todos los demás (Object). 
+
+Constructors (de Clases): Estos son una manera de construir clases que tiene JavaScript que se asemeja a la de otros lenguajes. 
+    Básicamente es una manera diferente de crear clases.     
