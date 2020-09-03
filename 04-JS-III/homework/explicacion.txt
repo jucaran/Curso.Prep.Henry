@@ -1,1 +1,1 @@
-Un array es un cadena de componentes. Estos componentes pueden ser de cualquier tipo. 
+Array: Un array, matriz o arreglo es un cadena de componentes. Estos componentes pueden ser cualquier tipo de dato. 
