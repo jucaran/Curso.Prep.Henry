@@ -1,0 +1,1 @@
+Callback: Un callback es cuando se llama como argumento a una función dentro de otra función. 
