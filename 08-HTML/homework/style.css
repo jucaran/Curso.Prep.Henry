@@ -1,0 +1,17 @@
+body {
+    color: white;
+    text-align: center;
+    background-image: url('https://pixabay.com/get/54e1d0404e4fad00f5d89960c62d3e771439d6ec5155_1920.jpg;')
+}
+h1 {color:darkred;}
+
+img {width: 400px;}
+
+#thirdDiv {height: 600px;
+    background:#e8e8e8;
+    padding:50px;
+    border:solid 1px black;}
+
+    #spanId {
+    font-size: 18px;
+    margin: 50px;}
